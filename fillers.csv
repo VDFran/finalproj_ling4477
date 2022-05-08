@@ -1,0 +1,61 @@
+item,type,sentence,audio,duration,tense
+1,matched,"I wanted you to paint the wall, not Fred",Match1.1.wav,2676,past
+2,matched,"I wanted you to paint the wall, not the door",Match1.2.wav,2676,past
+3,matched,"I wanted you to paint the wall, not wallpaper it",Match1.3.wav,2676,past
+4,mismatched,"I wanted you to paint the wall, not sand it",Mismatch1.1.wav,2676,past
+5,mismatched,"I wanted you to paint the wall, not Hank",Mismatch1.2.wav,2676,past
+6,mismatched,"I wanted you to paint the wall, not my desk",Mismatch1.3.wav,2676,past
+7,matched,"I wanted you to sand the wall, not him",Match2.1.wav,2676,past
+8,matched,"I wanted you to sand the wall, not the banister",Match2.2.wav,2676,past
+9,matched,"I wanted you to sand the wall, not prime it",Match2.3.wav,2676,past
+10,mismatched,"I wanted you to sand the wall, not paint it",Mismatch2.1.wav,2676,past
+11,mismatched,"I wanted you to sand the wall, not Mary",Mismatch2.2.wav,2676,past
+12,mismatched,"I wanted you to sand the wall, not the door",Mismatch2.3.wav,2676,past
+13,matched,"I wanted you to dance with my sister, not that jerk",Match3.1.wav,2676,past
+14,matched,"I wanted you to dance with my sister, not that girl",Match3.2.wav,2676,past
+15,matched,"I wanted you to dance with my sister, not charm her",Match3.3.wav,2676,past
+16,mismatched,"I wanted you to dance with my sister, not kiss her",Mismatch3.1.wav,2676,past
+17,mismatched,"I wanted you to dance with my sister, not the table",Mismatch3.2.wav,2676,past
+18,mismatched,"I wanted you to dance with my sister, not some other girl",Mismatch3.3.wav,2676,past
+19,matched,"I wanted you to pop the bubble, not my teacher",Match4.1.wav,2676,past
+20,matched,"I wanted you to pop the bubble, not their balloon",Match4.2.wav,2676,past
+21,matched,"I wanted you to pop the bubble, not blow on it",Match4.3.wav,2676,past
+22,mismatched,"I wanted you to pop the bubble, not blow on it",Mismatch4.1.wav,2676,past
+23,mismatched,"I wanted you to pop the bubble, not me",Mismatch4.2.wav,2676,past
+24,mismatched,"I wanted you to pop the bubble, not their pool",Mismatch4.3.wav,2676,past
+25,matched,"I wanted a seamstress to sew me a dress, not my mom",Match5.1.wav,2676,past
+26,matched,"I wanted a seamstress to sew me a dress, not a tux",Match5.2.wav,2676,past
+27,matched,"I wanted a seamstress to sew me a dress, not rent one",Match5.3.wav,2676,past
+28,mismatched,"I wanted a seamstress to sew me a dress, not buy one",Mismatch5.1.wav,2676,past
+29,mismatched,"I wanted a seamstress to sew me a dress, not Liila",Mismatch5.2.wav,2676,past
+30,mismatched,"I wanted a seamstress to sew me a dress, not a romper",Mismatch5.3.wav,2676,past
+31,matched,"Please pour me some water, but not my sister",Match6.1.wav,2676,present
+32,matched,"Please pour me some water, not juice",Match6.2.wav,2676,present
+33,matched,"Please pour me some water, instead of splashing",Match6.3.wav,2676,present
+34,mismatched,"Please pour me some water, instead of splashing it at me",Mismatch6.1.wav,2676,present
+35,mismatched,"Please pour me some water, not spiders",Mismatch6.2.wav,2676,present
+36,mismatched,"Please pour me some water, and not soda",Mismatch6.3.wav,2676,present
+37,matched,"Please peel my brother an orange, not Bob",Match7.1.wav,2676,present
+38,matched,"Please peel my brother an orange, not a grapefruit",Match7.2.wav,2676,present
+39,matched,"Please peel my brother an orange, instead of cutting it",Match7.3.wav,2676,present
+40,mismatched,"Please peel my brother an orange, instead of slicing it",Mismatch7.1.wav,2676,present
+41,mismatched,"Please peel my brother an orange, not my sister",Mismatch7.2.wav,2676,present
+42,mismatched,"Please peel my brother an orange, not a watermelon",Mismatch7.3.wav,2676,present
+43,matched,"I want the lake to freeze as ice, instead of Don’s pool",Match8.1.wav,2676,present
+44,matched,"I want the lake to freeze as ice, instead of slush",Match8.2.wav,2676,present
+45,matched,"I want the lake to freeze as ice, instead of melting",Match8.3.wav,2676,present
+46,mismatched,"I want the lake to freeze as ice, not thaw",Mismatch8.1.wav,2676,present
+47,mismatched,"I want the lake to freeze as ice, not some waterfall",Mismatch8.2.wav,2676,present
+48,mismatched,"I want the lake to freeze as ice, instead of water",Mismatch8.3.wav,2676,present
+49,matched,"I’d like my husband to quit his job, and not my son",Match9.1.wav,2676,present
+50,matched,"I’d like my husband to quit his job, not his entire profession",Match9.2.wav,2676,present
+51,matched,"I’d like my husband to quit his job, not continue",Match9.3.wav,2676,present
+52,mismatched,"I’d like my husband to quit his job, not take another",Mismatch9.1.wav,2676,present
+53,mismatched,"I’d like my husband to quit his job, not my daughter",Mismatch9.2.wav,2676,present
+54,mismatched,"I’d like my husband to quit his job, not his hobbies",Mismatch9.3.wav,2676,present
+55,matched,"I’d like my fiance to sing me a song, not anyone else",Match10.1.wav,2676,present
+56,matched,"I’d like my fiance to sing me a song, not a disco tune",Match10.2.wav,2676,present
+57,matched,"I’d like my fiance to sing me a song, not rap",Match10.3.wav,2676,present
+58,mismatched,"I’d like my fiance to sing me a song, not shout it",Mismatch10.1.wav,2676,present
+59,mismatched,"I’d like my fiance to sing me a song, not someone else’s spouse",Mismatch10.2.wav,2676,present
+60,mismatched,"I’d like my fiance to sing me a song, not an opera",Mismatch10.3.wav,2676,present
